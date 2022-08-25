@@ -42,7 +42,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://prosleeper.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://prosleeper.github.io/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ingn@nate.com"/></a>
+  <a href="mailto:ingn@nate.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ingn@nate.com"/></a>
 </p>
 <br>
 
